@@ -70,7 +70,6 @@ p {
   margin-right: 10px;
   font-size: 1.7em;
   color: white;
-  text-transform: uppercase;
   letter-spacing: -1px;
   padding-top: 9px;
   font-weight: bold;
@@ -80,6 +79,11 @@ p {
     text-decoration: none;
   }
 }
+
+#logo_image{
+  clear: both;
+}
+
 
 /* footer */
 
@@ -244,3 +248,4 @@ aside {
     margin: 1px 1px;
   }
 }
+
